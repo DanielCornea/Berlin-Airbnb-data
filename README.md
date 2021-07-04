@@ -37,8 +37,8 @@ The results are available in a medium post <a href="https://www.anaconda.com" ta
 <a name="license"></a>
 
 ## Licensing, Authors, Acknowledgements...
-The author is me: Daniel Cornea 
-The Acknowledgements go to the Udacity team for teaching me
+The author is me: Daniel Cornea  <br />
+The Acknowledgements go to the Udacity team for teaching me <br />
 Licensing: All the licensing about the data can be found  <a href = "http://insideairbnb.com/get-the-data.html" target="_blank"> here </a> 
 
 
