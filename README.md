@@ -17,7 +17,7 @@ In order to be able to access this project you will need:
   <li> Python's numpy, pandas and scikit-learn libraries</li>
 </ul>
 
-I used Anaconda to develop this project. Anaconda is available <a href = "https://www.anaconda.com", target="_blank"> here </a>
+I used Anaconda to develop this project. Anaconda is available <a href = "https://www.anaconda.com" target="_blank"> here </a>
  
 <a name="motivation"></a>
 ## Project Motivation 
@@ -33,7 +33,7 @@ In order to interact with my project you would need to download and run the .ipy
 <a name="results"></a>
 
 ## Results 
-The results are available in a medium post <a href = "https://www.anaconda.com", target="_blank"> here </a> 
+The results are available in a medium post <a href = "https://www.anaconda.com" target="_blank"> here </a> 
 <a name="license"></a>
 
 ## Licensing, Authors, Acknowledgements...
