@@ -33,7 +33,7 @@ In order to interact with my project you would need to download and run the .ipy
 <a name="results"></a>
 
 ## Results 
-The results are available in a medium post <a href="https://www.anaconda.com" target="_blank"> here</a> 
+The results are available in a medium post <a href="https://daniel-cornea.medium.com/this-is-what-might-influence-the-price-of-your-berlin-airbnb-listing-or-not-17663340d854" target="_blank"> here</a> 
 <a name="license"></a>
 
 ## Licensing, Authors, Acknowledgements...
