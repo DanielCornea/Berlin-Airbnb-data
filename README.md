@@ -14,7 +14,7 @@ In order to be able to access this project you will need:
 <ul>
   <li> Python 3.7 or higher</li>
   <li> Jupiter Notebooks</li>
-  <li> Python's numpy, pandas and scikit-learn libraries</li>
+  <li> Python's numpy, pandas, scikit-learn, matplotlib libraries</li>
    <li> To dispplay the maps geopandas, folium </li>
 </ul>
 
